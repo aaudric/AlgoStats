@@ -1,0 +1,8 @@
+Bonjour, 
+
+Pour la réalisation de ce projet, je me suis servi des cours et TD :
+- de programmation du 1er semestre, 
+- des premieres semaines d'algorithmique
+- les exemples mis à disposition sur Moodle dans le Dossier "Gestion de fichier" 
+  ainsi que le pdf qui m'a beaucoup aid dans la compréhension de la partie 3.3
+- de l'annexe : aides et remarques, située à la fin du sujet 

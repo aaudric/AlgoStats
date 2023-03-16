@@ -1,0 +1,17 @@
+Bonjour, 
+Pour cette seconde remise, j'ai repris tous mes fichier de test afin d'avoir des tests sur plusieurs cas :
+- avec des résulats verifiés  
+- une meilleur clairvoyance 
+- une bonne mise en forme
+
+De plus j'ai repris le commentaires de toutes mes fonctions pour y ajouter "les Réulsats"
+Sans oublier que j'ai revu toutes mes fonctions afin de verifier qu'il n'y avait pas d'erreur
+
+Il y a eu une modification au niveau de la fonction "lecture_fichier" :
+J'ai effectué un chemins pour trouver les fichiers CSV car ils doivent être dans un dossier différents que les programmes Pythons
+J'ai aussi régélé le problème d'encodage survenu lors du test de la fonction de lecture_fichier
+
+Pour la fonction moyenne :
+J'ai initialisé moyenne_finale avant la boucle for, comme dis dans la correction
+
+Pour la fonction écart type, je n'ai pas compris car mes variables étaient déja tout initialisés
